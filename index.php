@@ -1,1 +1,1 @@
-<?php include_once("about.html"); ?>
+<?php include_once("app/about/about.component.html"); ?>
